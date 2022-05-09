@@ -1,0 +1,86 @@
+img {
+  width: 20%;
+  float: left;
+  margin: 2.5%;
+}
+.font{
+  font-family: 'Lato', sans-serif;
+  font-weight: 400;
+}
+.fonthead{
+  font-family: 'Lato', sans-serif;
+  font-weight: 600;
+  font-size: xx-large;
+}
+.best {
+  width: 48%;
+  margin: 1%;
+  height: 400px;
+  padding-bottom: 20px;
+  border-radius: 0%;
+  background-color: none;
+}
+
+h1 ,h5 {
+  text-transform: uppercase;
+  
+}
+h3 {
+  text-transform: uppercase;
+  font-weight: normal;
+  margin: 20px auto;
+  max-width: 500px;
+}
+.brand {
+  width: 15%;
+  margin: 2.5%;
+  padding: 50px 0;
+}
+.bestseller {
+  max-width: 250px;
+padding-top: 20px;  
+}
+
+.white {
+  color: white;
+  padding-right: 10px;
+}
+
+.container {
+  position: relative;
+  text-align: center;
+  text-transform: uppercase;
+}
+img{
+  border-radius: 15%;
+}
+.M {
+  position: absolute;
+  bottom: 8px;
+  right: 16px;
+  color: black;
+}
+.W {
+  position: absolute;
+  bottom: 8px;
+  left: 16px;
+  color: black;
+}
+
+.form{
+  padding-left: 2.5%;
+  padding-right: 2.5%;
+}
+.navpad{
+  padding: 0 5px;
+}
+footer{
+  background-color: #f7f7f7;
+}
+i{
+padding: 0 2px;
+}
+.feedback{
+  padding : 20px 0 ;
+  max-width: 200px;
+}
